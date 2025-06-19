@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: ReDigital Designs Oficial Web
 ---
 
 This is a blank Quartz installation.
